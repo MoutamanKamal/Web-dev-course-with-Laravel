@@ -6,7 +6,6 @@
 [Composer](https://getcomposer.org/) is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
 Laravel can be installed using two methods, both utilize [composer](https://getcomposer.org/), so before starting make sure you have composer installed.
-## What is composer?
 
 # **Installing Laravel**
 - ## **Using Laravel Installer**
