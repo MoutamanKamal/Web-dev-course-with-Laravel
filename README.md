@@ -6,7 +6,7 @@ A course organized by [firebits](https://firebits.net) on web development using 
 
 ## **Contents**
 - [Introduction and environment setup](./docs/installation.md)
-- Basic routing and controllers
+- [Basic routing and controllers](./docs/routingAndControllers.md)
 - Blade templating and compiling JS & CSS
 - Models and database migration
 - Eolquent ORM and fetching data
