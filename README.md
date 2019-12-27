@@ -5,7 +5,7 @@
 A course organized by [firebits](https://firebits.net) on web development using Laravel framework.
 
 ## **Contents**
-- Introduction and environment setup
+- [Introduction and environment setup](./docs/installation.md)
 - Basic routing and controllers
 - Blade templating and compiling JS & CSS
 - Models and database migration
